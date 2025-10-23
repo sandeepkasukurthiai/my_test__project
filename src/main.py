@@ -1,3 +1,5 @@
+# This is a test FASTAPI application
+
 from fastapi import FastAPI
 
 app = FastAPI()
